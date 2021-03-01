@@ -1,0 +1,10 @@
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.Properties.Resources.resources
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.csproj.GenerateResource.cache
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\bin\Debug\MyDBExemple.exe.config
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\bin\Debug\MyDBExemple.exe
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\bin\Debug\MyDBExemple.pdb
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExample.Form1.resources
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.exe
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.pdb
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.csprojAssemblyReference.cache

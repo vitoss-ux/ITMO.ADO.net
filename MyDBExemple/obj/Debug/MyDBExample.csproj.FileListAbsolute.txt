@@ -1,0 +1,20 @@
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\bin\Debug\MyDBExemple.exe.config
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\bin\Debug\MyDBExemple.exe
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\bin\Debug\MyDBExemple.pdb
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExample.csprojAssemblyReference.cache
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExample.Form1.resources
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.Properties.Resources.resources
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExample.csproj.GenerateResource.cache
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExample.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.exe
+C:\Users\Виталий\Downloads\Example-of-the-DataBase-on-ADO.NET.-Winform-master\Example-of-the-DataBase-on-ADO.NET.-Winform-master\MyDBExemple\MyDBExemple\obj\Debug\MyDBExemple.pdb
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\bin\Debug\MyDBExemple.exe.config
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\bin\Debug\MyDBExemple.exe
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\bin\Debug\MyDBExemple.pdb
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\obj\Debug\MyDBExample.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\obj\Debug\MyDBExample.Form1.resources
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\obj\Debug\MyDBExemple.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\obj\Debug\MyDBExample.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\obj\Debug\MyDBExample.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\obj\Debug\MyDBExemple.exe
+D:\Изучение C#\Projects\ITMO\ADO.NET\Новая папка\MyDBExemple\obj\Debug\MyDBExemple.pdb
